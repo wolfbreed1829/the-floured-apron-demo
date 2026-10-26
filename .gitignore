@@ -1,0 +1,9 @@
+/target/
+/dist/
+/.playwright-mcp/
+/test-results/
+/node_modules/
+*.log
+.env
+.env.*
+!.env.example

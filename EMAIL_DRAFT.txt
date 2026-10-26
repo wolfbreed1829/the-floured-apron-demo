@@ -1,0 +1,13 @@
+Subject: A fresh website idea for The Floured Apron
+
+Hi!
+
+We put together a working website concept for The Floured Apron and wanted to share it with you:
+
+https://wolfbreed1829.github.io/the-floured-apron-demo/
+
+It gives the bakery a warmer, more visual storefront, makes the menu easier to browse on a phone, and lets you try putting together an order. You can also click “Try the content studio” to experiment with the homepage wording, prices, and availability.
+
+This is only a demo—nothing is sent or charged. The photos are placeholders for your own baking, and the content studio saves changes only in your browser.
+
+We’d love to hear what feels right for your bakery and what you’d change.

@@ -1,0 +1,16 @@
+{
+  "headline": "Good bread.\nGreat company.",
+  "intro": "Handcrafted sourdough, sweet loaves, and little reasons to slow down. From our home bakery in Florence, Arizona, to your table.",
+  "announcement": "Made with care. Shared with love. • Florence, Arizona",
+  "products": [
+    {"id":"sourdough","name":"Classic Sourdough","category":"Sourdough","description":"A beautifully simple loaf. Bring the butter, gather around, and make a moment of it.","price":12,"unit":"one loaf","image":"sourdough.jpg","tag":"The everyday favorite","available":true,"variants":[]},
+    {"id":"rolls","name":"Cinnamon Rolls","category":"Sweet treats","description":"Soft swirls of cinnamon goodness. A sweet little reason to linger over breakfast.","price":10,"unit":"4 pack","image":"cinnamon-rolls.jpg","tag":"A sweeter morning","available":true,"variants":[{"label":"4 pack","price":10},{"label":"Full order · 10–12 rolls","price":30}]},
+    {"id":"cookies","name":"Cookies by the Dozen","category":"Sweet treats","description":"Chocolate chip, sugar, or the bakery’s popular Cowboy cookies. Good things come by the dozen.","price":10,"unit":"one dozen","image":"cookies.jpg","tag":"Made for sharing","available":true,"variants":[{"label":"Cowboy","price":10},{"label":"Chocolate chip","price":10},{"label":"Sugar","price":10}]},
+    {"id":"flavored","name":"Flavored Sourdough","category":"Sourdough","description":"Your favorite loaf with a little something extra. Choose a savory or sweet combination.","price":15,"unit":"one loaf","image":"hero-bread.jpg","tag":"Something a little different","available":true,"variants":[{"label":"Jalapeño Cheddar","price":15},{"label":"Sun-dried Tomato & Mozzarella","price":15},{"label":"Blueberry Lemon","price":15}]},
+    {"id":"banana","name":"Banana Nut Loaf","category":"Sweet loaves","description":"A familiar favorite for coffee breaks, breakfast tables, and just-one-more-slice afternoons.","price":10,"unit":"one loaf","image":"","tag":"","available":true,"variants":[]},
+    {"id":"blueberry","name":"Blueberry Lemon Loaf","category":"Sweet loaves","description":"A bright blueberry-and-lemon pairing to bring a little sunshine to the table.","price":10,"unit":"one loaf","image":"","tag":"","available":true,"variants":[]},
+    {"id":"carrot","name":"Carrot Loaf","category":"Sweet loaves","description":"A cozy sweet loaf for a quiet morning or an afternoon catch-up.","price":10,"unit":"one loaf","image":"","tag":"","available":true,"variants":[]},
+    {"id":"zucchini","name":"Zucchini Loaf","category":"Sweet loaves","description":"A homestyle favorite, ready to slice and share.","price":10,"unit":"one loaf","image":"","tag":"","available":true,"variants":[]},
+    {"id":"muffins","name":"English Muffins","category":"Sweet treats","description":"A breakfast favorite. Toast, top, and make them your own.","price":15,"unit":"half dozen","image":"","tag":"","available":true,"variants":[]}
+  ]
+}
